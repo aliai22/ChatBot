@@ -17,7 +17,7 @@ This chatbot application allows users to **upload PDF documents**, process their
 ## **Setup Instructions**
 
 ### **Clone the Repository**
-`git clone [<your-github-repo-link>](https://github.com/aliai22/ChatBot)`
+`git clone [](https://github.com/aliai22/ChatBot)`
 
 `cd chatbot`
 
