@@ -5,12 +5,12 @@ This chatbot application allows users to **upload PDF documents**, process their
 ---
 
 ## **Features**
-**Upload PDFs** – Users can upload single or multiple PDF documents.  
-**Automatic Text Extraction** – Extracts text from uploaded PDFs.  
-**Vector Store for Semantic Search** – Uses embeddings to store and retrieve relevant document information.  
-**AI-Powered Chatbot** – Answers questions based on the extracted knowledge using **Phi-2**.  
-**FastAPI-based API** – A lightweight backend for seamless chatbot interactions.  
-**Docker Support** – Easily deploy the application in a Docker container.  
+- **Upload PDFs** – Users can upload single or multiple PDF documents.  
+- **Automatic Text Extraction** – Extracts text from uploaded PDFs.  
+- **Vector Store for Semantic Search** – Uses embeddings to store and retrieve relevant document information.  
+- **AI-Powered Chatbot** – Answers questions based on the extracted knowledge using **Phi-2**.  
+- **FastAPI-based API** – A lightweight backend for seamless chatbot interactions.  
+- **Docker Support** – Easily deploy the application in a Docker container.  
 
 ---
 
